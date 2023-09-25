@@ -1,3 +1,4 @@
+![logo](https://github.com/shivamraj31/shivamraj31/blob/main/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Shivam Raj</h1>
 <h3 align="center">A passionate Data Science student from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47qbgrv675oksox3408mf72gdi6glt8240w3vju4b7&ep=v1_gifs_search&rid=giphy.gif&ct=g">
