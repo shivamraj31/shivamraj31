@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Raj</h1>
-<h3 align="center">A passionate Data science student from India</h3>
+<h3 align="center">A passionate Data Science student from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47qbgrv675oksox3408mf72gdi6glt8240w3vju4b7&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamraj31&label=Profile%20views&color=0e75b6&style=flat" alt="shivamraj31" /> </p>
